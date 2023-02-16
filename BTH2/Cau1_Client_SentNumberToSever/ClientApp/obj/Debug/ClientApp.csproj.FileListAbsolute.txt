@@ -1,0 +1,8 @@
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\bin\Debug\ClientApp.exe.config
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\bin\Debug\ClientApp.exe
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\bin\Debug\ClientApp.pdb
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\obj\Debug\ClientApp.exe
+E:\Cshap_net_work\BTH2\Cau1_Client_SentNumberToSever\ClientApp\obj\Debug\ClientApp.pdb
